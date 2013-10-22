@@ -1,0 +1,115 @@
+Initialize engine version: 4.2.0f4 (38efbd14869d)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1151]
+    Renderer: AMD FirePro V5900 (FireGL V)
+    Vendor:   ATI
+    VRAM:     2030 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 DF24=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\ian.harris1\Desktop\Unity prototypes\New Unity Project 9\2DSpaceShooter_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\ian.harris1\Desktop\Unity prototypes\New Unity Project 9\2DSpaceShooter_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\ian.harris1\Desktop\Unity prototypes\New Unity Project 9\2DSpaceShooter_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\ian.harris1\Desktop\Unity prototypes\New Unity Project 9\2DSpaceShooter_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.109 seconds
+desktop: 1280x1024 60Hz; virtual: 2560x1024 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 0.435108 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 111.
+Total: 1.406830 ms (FindLiveObjects: 0.014256 ms CreateObjectMapping: 0.027372 ms MarkObjects: 0.199305 ms  DeleteObjects: 0.007983 ms)
+
+UnloadTime: 0.491278 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 204.
+Total: 1.434773 ms (FindLiveObjects: 0.020244 ms CreateObjectMapping: 0.017107 ms MarkObjects: 0.240364 ms  DeleteObjects: 0.007413 ms)
+
+UnloadTime: 0.688873 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 199.
+Total: 1.360639 ms (FindLiveObjects: 0.019673 ms CreateObjectMapping: 0.017107 ms MarkObjects: 0.235517 ms  DeleteObjects: 0.007413 ms)
+
+Score:0
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Lives:3
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Score:1
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Score:2
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Score:3
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Score:4
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Score:5
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Score:6
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Score:7
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Score:8
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Score:9
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Score:10
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Lives:2
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Lives:1
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+UnloadTime: 1.296485 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 114.
+Total: 1.694526 ms (FindLiveObjects: 0.014826 ms CreateObjectMapping: 0.016822 ms MarkObjects: 0.223256 ms  DeleteObjects: 0.270017 ms)
+
+UnloadTime: 0.420566 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 113.
+Total: 1.256281 ms (FindLiveObjects: 0.019103 ms CreateObjectMapping: 0.014541 ms MarkObjects: 0.204438 ms  DeleteObjects: 0.006272 ms)
+
+UnloadTime: 0.424843 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 115.
+Total: 1.316444 ms (FindLiveObjects: 0.015967 ms CreateObjectMapping: 0.016252 ms MarkObjects: 0.228674 ms  DeleteObjects: 0.006272 ms)
+
+UnloadTime: 0.414293 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 116.
+Total: 1.281373 ms (FindLiveObjects: 0.017107 ms CreateObjectMapping: 0.015111 ms MarkObjects: 0.216983 ms  DeleteObjects: 0.006843 ms)
+
