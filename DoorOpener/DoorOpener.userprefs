@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\nameObject.cs">
+    <Files>
+      <File FileName="Assets\scripts\lowerDoorScriptClose.cs" Line="18" Column="4" />
+      <File FileName="Assets\scripts\lowerDoorScriptOpen.cs" Line="18" Column="4" />
+      <File FileName="Assets\scripts\upperDoorScriptClose.cs" Line="18" Column="4" />
+      <File FileName="Assets\scripts\upperDoorScriptOpen.cs" Line="18" Column="4" />
+      <File FileName="Assets\scripts\panelDownScript.cs" Line="18" Column="4" />
+      <File FileName="Assets\scripts\panelUpScript.cs" Line="18" Column="4" />
+      <File FileName="Assets\scripts\nameObject.cs" Line="26" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
